@@ -15,3 +15,5 @@ In the past, you had to write out each method individually to pass each test.
 Now with Active Record, the hard work is done for you! Run your tests and watch
 them fail. Then make sure your `Dog` class inherits from `ActiveRecord::Base`
 and watch them pass!
+
+https://github.com/G3o-R/phase-3-active-record-translating-from-orm-to-ar
